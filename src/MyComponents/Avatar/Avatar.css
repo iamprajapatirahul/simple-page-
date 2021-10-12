@@ -1,0 +1,13 @@
+.avatarstyle img{
+    width: 200px;
+    height: 200px;
+}
+.avatarstyle p{
+    font-family: 'Gugi', cursive;
+    font-size: 25px;
+}
+.avatarstyle h1{
+    margin: 0;
+    padding: 20px 0;
+    font-family: 'Gugi', cursive;
+}
